@@ -97,9 +97,8 @@ Design decisions emphasize:
 * Terraform (HCL)
 
 ---
-**Data Engineer**
 
-## Data Stack
+## Data Engineer: Data Stack
 
 ### Ingestion: Kafka
 
