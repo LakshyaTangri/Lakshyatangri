@@ -14,7 +14,7 @@ Each project follows a **Top-Down Architecture Flow**:
 ```
 Business Requirements
         ↕
-AWS-Based Solution Architectures
+Solution Architectures & System designs
         ↕
 Data Architectures
         ↕
