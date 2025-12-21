@@ -97,77 +97,48 @@ Design decisions emphasize:
 * Terraform (HCL)
 
 ---
+**Data Engineer**
 
 ## Data Stack
 
-### Ingestion
+### Ingestion: Kafka
 
-* Kafka
+### Transformation: dbt
 
-### Transformation
+### Orchestration: Apache Airflow
 
-* dbt
-
-### Orchestration
-
-* Apache Airflow
-
-### Serving
-
-* BI tools or downstream data loads
+### Serving: BI tools or downstream data loads
 
 ---
 
-## Programming Languages
-
-* **Python**
-* **SQL**
+## Programming Languages: **Python**, **SQL**
 
 ---
 
 ## Libraries & Packages Used
 
-### Cloud & Infrastructure
+### Cloud & Infrastructure: Terraform, AWS
 
-* Terraform (AWS Provider)
-* AWS CDK
-* boto3
+### Microservices: FastAPI, Flask, Docker
 
-### Microservices
+### Event-Driven Systems: Kafka, AWS SNS / SQS / EventBridge
 
-* FastAPI
-* Flask
-* Pydantic
-* OpenAPI
-
-### Event-Driven Systems
-
-* Kafka
-* AWS SNS / SQS / EventBridge
-
-### Data Engineering
-
-* Kafka
+### Data Engineering: Kafka
 * dbt
 * Airflow
 * Pandas
 * SQLAlchemy
 
 ### AI / LLM
-
 * LangChain
 * OpenAI SDK
-* FAISS
 * HuggingFace Transformers
 
 ### Observability
-
-* OpenTelemetry
 * Prometheus
 * Grafana
 
 ### Testing & CI/CD
-
 * Pytest
 * Black
 * GitHub Actions
@@ -231,9 +202,6 @@ Design decisions emphasize:
 ## Certifications
 
 * TOGAF Foundation & Practitioner
-* AWS Data Engineer (Due)
-* AWS Generative AI Developer (To Be Released)
-* AWS Solutions Architect (Due)
 
 ---
 
