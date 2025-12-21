@@ -231,9 +231,9 @@ Design decisions emphasize:
 ## Certifications
 
 * TOGAF Foundation & Practitioner
-* AWS Data Engineer
-* AWS Generative AI Developer
-* AWS Solutions Architect
+* AWS Data Engineer (Due)
+* AWS Generative AI Developer (To Be Released)
+* AWS Solutions Architect (Due)
 
 ---
 
