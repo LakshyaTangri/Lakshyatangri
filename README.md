@@ -2,8 +2,6 @@
 
 
 
-My AWS data stack:
-
 ## My AWS Data Stack
 
 | Data Size | File Type               | Primary Language | Ingestion / Extract Tools                          | Processing / Transform                            | Orchestration / Workflow                     | Catalog / Governance                                            | Database Model Type                                           | Database / Engine                                             | Storage                                                     | Consumption (BI / ML / API)                                                                    |
@@ -13,9 +11,8 @@ My AWS data stack:
 | 100GB–1TB | csv, Parquet            | Python / SQL     | AWS Glue connectors, AWS DMS, MSK (Kafka)          | Glue ETL, EMR (Spark), AWS SDK for pandas         | Step Functions, MWAA (Airflow)               | Glue Data Catalog, Lake Formation                               | Analytical Warehouse (OLAP) + Data Lake                       | Amazon Redshift (incl. Spectrum) / Amazon Athena              | Amazon S3 (Parquet)                                         | QuickSight, ad‑hoc SQL via Athena/Redshift, ML via SageMaker                                   |
 | 10TB+     | Parquet, graph data     | Python / SQL     | MSK (Kafka), AWS DMS (CDC), Kinesis Data Streams   | EMR/EMR Serverless, Glue ETL, AWS SDK for pandas  | Step Functions, MWAA, Event‑driven pipelines | Glue Data Catalog, Lake Formation, fine‑grained access controls | Graph (Neptune) + Lakehouse / Large‑scale Analytics (OLAP)    | Amazon Neptune (graph workloads) / Amazon Redshift / Athena   | Amazon S3 (multi‑tier, lifecycle to S3 Glacier for archive) | QuickSight, Neptune graph queries, large‑scale analytics via Redshift/Athena, ML via SageMaker |
 
+## My Data Stack outside AWS:
 
-
-My Data Stack outside AWS:
 | Data Size | File Type           | Primary Language      | Extract / Ingestion Tools                              | Processing / Transform                             | Orchestration / Workflow                          | Catalog / Governance                                                                  | Database Model Type                                      | Database / Engine                                                            | Storage                                                             | Consumption (BI / ML / API)                                                                 |
 | --------- | ------------------- | --------------------- | ------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | 1MB–1GB   | CSV, XLS            | Python / SQL          | Custom scripts, REST APIs, cloud SDKs, CSV uploads     | dbt (for SQL), Python ETL scripts, pandas          | Cron, lightweight schedulers, Prefect             | Basic metadata in DB, optional open‑source catalog (e.g., OpenMetadata)               | Relational (Operational OLTP)                            | PostgreSQL / MySQL (managed or self‑hosted)                                  | Object storage (MinIO, GCS, Azure Blob)                             | Metabase / Superset / Looker Studio, direct app queries, small APIs                         |
