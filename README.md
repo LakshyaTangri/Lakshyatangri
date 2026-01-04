@@ -6,8 +6,8 @@ My AWS data stack:
 
 | Data Size | File Type           | Primary Language | Extract / Ingestion Tools                        | Database Model Type            | Database / Engine                       | Storage                              | 
 | --------- | ------------------- | ---------------- | ------------------------------------------------ | ------------------------------ | --------------------------------------- | ------------------------------------ |
-| 1MB–1GB   | csv, xls            | Python / SQL     | AWS SDK (Boto3), custom scripts, S3 uploads      | Relational (OLTP)              | Amazon RDS / Amazon Aurora              | Amazon S3                            | AWS Lambda, AWS Glue DataBrew / Glue ETL, Amazon Athena      |
-| 1GB–100GB | JSON, csv (NoSQL)   | Python           | AWS DMS, AWS AppFlow, Kafka Connect (MSK)        | NoSQL (Document / Key-Value)   | Amazon DocumentDB / Amazon DynamoDB     | Amazon S3                            | Amazon EC2, AWS Lambda, Amazon EMR / AWS Glue                |
+| 1MB–1GB   | csv, xls            | Python / SQL     | AWS SDK (Boto3), custom scripts, S3 uploads      | Relational (OLTP)              | Amazon RDS / Amazon Aurora              | Amazon S3                            |
+| 1GB–100GB | JSON, csv (NoSQL)   | Python           | AWS DMS, AWS AppFlow, Kafka Connect (MSK)        | NoSQL (Document / Key-Value)   | Amazon DocumentDB / Amazon DynamoDB     | Amazon S3                            |                |
 | 100GB–1TB | csv, Parquet        | Python / SQL     | AWS Glue connectors, AWS DMS, MSK (Kafka)        | Analytical / Columnar (OLAP)   | Amazon Redshift, Amazon Athena          | Amazon S3 (Parquet)                  |                   |
 | 10TB+     | Parquet, graph data | Python / SQL     | MSK (Kafka), AWS DMS (CDC), Kinesis Data Streams | Graph + Lakehouse / Analytical | Amazon Neptune (Graph), Amazon Redshift | Amazon S3 (+ S3 Glacier for archive) | 
 
