@@ -1,6 +1,7 @@
 ## Overview
 
 This repository showcases my work as a **Data Engineer & Architect** operating across **business, cloud, and data engineering layers**.
+
 My AWS data stack 
 | Data Size | File Type           | Database Model Type          | Database                                | Storage                              | Compute                                                 |
 | --------- | ------------------- | ---------------------------- | --------------------------------------- | ------------------------------------ | ------------------------------------------------------- |
