@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work on Deployment of Data pipelines, ML & AI models<br><br>I am looking to work on Solution architectures & system designs for Data feed for low latency project with Ai capabilities <br><br> I'm TOGAF 10 Practitioner Certified and currently gaining:<br>AWS Data Engineer & AWS GenAI Developer, (Then System design & Solution Architect) <br><br> Ask me about how to work on both fronts Tech & Business.<br><br>Fun Fact: I use to beatbox & flew aircrafts when i was a kid. Now after 2 start ups, 1 govt. Award, Few contracts, restarting career in London. <br> Live, enjoy & grow in the journey called life, Cheers!  
+I work on Planning to Implementation of Data pipelines, ML & AI models<br><br>I am looking to work on Solution architectures & system designs for Data feed for low latency project with Ai capabilities <br><br> I'm TOGAF 10 Practitioner Certified and currently gaining:<br>AWS Data Engineer & AWS GenAI Developer, (Then System design & Solution Architect) <br><br> Ask me about how to work on both fronts Tech & Business.<br><br>Fun Fact: I use to beatbox & flew aircrafts when i was a kid. Now after 2 start ups, 1 govt. Award, Few contracts, restarting career in London. <br> Live, enjoy & grow in the journey called life, Cheers!  
 
 
 ## 🌐 Socials:
