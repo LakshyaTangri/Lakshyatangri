@@ -1,5 +1,5 @@
 # 💫 About Me:
-Below is the layers i Ops and Audience I address
+Below are the layers where I contribute and Audience I address
 
 | Layer               | Audience I address                | Purpose                       |
 | ------------------- | ----------------------- | ----------------------------- |
