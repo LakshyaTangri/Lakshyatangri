@@ -1,4 +1,15 @@
 # 💫 About Me:
+Below is the layers i Ops and Audience I address
+
+| Layer               | Audience I address                | Purpose                       |
+| ------------------- | ----------------------- | ----------------------------- |
+| **Archimate**       | C-Level / Business      | *Why* this system exists      |
+| **AWS Diagrams**    | Architects / Tech Leads | *Where* it runs               |
+| **UML (HLD → LLD)** | Engineers               | *How* it’s built              |
+| **Terraform**       | Platform / DevOps       | *What* is provisioned         |
+| **Ansible**         | Ops / SRE               | *How* machines are configured |
+| **Docker**          | Developers              | *How* apps are packaged       |
+| **K8s**             | Platform                | *How* apps run at scale       |
 
 
 ## 🌐 Socials:
