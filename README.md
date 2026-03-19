@@ -1,6 +1,6 @@
 # Lakshya Tangri
 
-07444766982 | [lakshyatangri1@gmail.com](mailto:lakshyatangri1@gmail.com) | [lakshyatangri.com](https://lakshyatangri.com) | B42 , Birmingham
++44 7444766982 | [lakshyatangri1@gmail.com](mailto:lakshyatangri1@gmail.com) | [lakshyatangri.com](https://lakshyatangri.com) | B42 , Birmingham
 
 Enterprise Architect - Solution Architect - Consulting
 
