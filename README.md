@@ -2,7 +2,7 @@
 
 07444766982 | [lakshyatangri1@gmail.com](mailto:lakshyatangri1@gmail.com) | [lakshyatangri.com](https://lakshyatangri.com) | B42 2QB, Birmingham
 
-Enterprise Architect - Technology Strategy - Consulting
+Enterprise Architect - Solution Architect - Consulting
 
 ---
 
