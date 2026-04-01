@@ -1,61 +1,20 @@
-# Lakshya Tangri
+##### 👋 Welcome to @lakshyatangri profile
 
-+44 7444766982 | [lakshyatangri1@gmail.com](mailto:lakshyatangri1@gmail.com) | [lakshyatangri.com](https://lakshyatangri.com) | B42 , Birmingham
+- 🎯 Solutions Architect | IT Auditor 
+- 🎓 MSc MIS & Digital Innovation @ University of Warwick (Merit)  
+- 🛠️ I work with: `python`, `aws`, `kubernetes`, `docker`, `uml`, `archimate`, `terraform`  
+- 🧠 Exploring: AI/ML, data architecture, cloud-native systems & enterprise architecture  
+- 🏗️ Passionate about building scalable, secure, and future-ready systems  
+- 💬 Always open to collaborating and discussing architecture, AI, and tech strategy
 
+- See my work : [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lakshyatangri.com) 
 
-## Education
+- 📫 Reach me here 👇  
+<br/>
 
-### University of Warwick | Coventry, West Midlands
-**MSc Management of Information Systems & Digital Innovation (Merit)** | 2024 - 2025
-
-- Thesis (Distinction): "Enterprise Sensor Data Management Framework for Low-Latency Decision Making" - designed a target-state enterprise data architecture and governance framework applying TOGAF ADM principles & DAMA-DMBOK to optimise data flows across distributed systems for real-time decision support.
-- 2nd Place, Consulting Competition (Warwick Consulting Society) - delivered a technology strategy and digital transformation roadmap to a live client brief, presenting architecture recommendations to a senior industry panel.
-- 2nd Place, FinTech Hackathon (Gillmore Centre for Financial Technology) - developed a cloud-native financial data platform addressing regulatory reporting and data governance requirements.
-
-### University of Mumbai | Mumbai, India
-**Bachelor of Management Studies, Economics (Distinction)** | 2019 - 2022
-
----
-
-## Technical Skills
-
-**EA Frameworks & Methods:** TOGAF 10 (ADM, Architecture Domains, Governance), Zachman Framework, ArchiMate 3, SAFe 6, SEBOK, Business Capability Mapping, Target Operating Model (TOM) Design, Gap Analysis, Technology Roadmapping
-
-**Architecture Practice:** Enterprise Architecture, Business Architecture, Solution Architecture, Current-State & Target-State Design, Architecture Review Board (ARB), IT Strategy & Planning, Digital Transformation, Consulting Delivery, Programme Governance, HLD/LLD
-
-**EA Tooling & Modelling:** Sparx Enterprise Architect, LeanIX, ArchiMate Modelling, UML, BPMN, Lucidchart, Visio, API & Integration Design, Systems Integration, Microservices & Event-Driven Architecture
-
-**AI, Data & Governance:** Responsible AI Governance (ISO 42001), AI Agents, LLM Integration, RAG, MLOps, Data Architecture, Data Lineage, DAMA-DMBOK, Master Data Management, SQL/NoSQL, Kafka
-
-**Cloud & Infrastructure:** AWS / Azure / GCP, Kubernetes & Docker, Infrastructure as Code, CI/CD, DevSecOps, IAM & Access Controls, Cloud-Native Architecture, Hybrid & Multi-Cloud Strategy
-
-**IT Governance & Risk:** IT General Controls (ITGC), Application Controls, ISO 27001, ISO 42010, Risk Assessment, Regulatory Compliance, Security Architecture, Vendor Management
-
-**Consulting & Stakeholder:** Stakeholder Management, Senior Stakeholder Engagement, Client Delivery, Vendor Evaluation, Workshop Facilitation, Commercial Awareness
-
-**Development & Integration:** Python, C++, REST/gRPC, VBA, automation, AI-Code, LLD, OOP and code review
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshyatangri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshyatangri1@gmail.com)
 
 ---
 
-## Certifications ([Credly link](https://www.credly.com/users/lakshyatangri))
-
-- TOGAF® Standard, 10th Edition Practitioner
-- TOGAF® Standard, 10th Edition Foundation
-- LF120: Linux Conversational AI Compliance
-- LF250: Linux Kubernetes & Cloud Native
-- AZ900: Azure AI Fundamentals
-- DORA Fundamentals
-- GDPR Fundamentals
-- Bloomberg Market Concept (BMC)
-- Warwick University: Big Data Analytics in R & Python
-- IBM: Full Stack Developer
-- Member, Association of Enterprise Architects (AEA)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshyatangri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshyatangri1@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+✨ *“Bridging business and technology through architecture, data, and intelligent systems.”*
