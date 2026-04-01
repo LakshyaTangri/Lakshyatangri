@@ -7,7 +7,7 @@
 - 🏗️ Passionate about building scalable, secure, and future-ready systems  
 - 💬 Always open to collaborating and discussing architecture, AI, and tech strategy
 
-- See my work : [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lakshyatangri.com) 
+- See my work : [![lakshyatangri.com](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lakshyatangri.com) 
 
 - 📫 Reach me here 👇  
 <br/>
