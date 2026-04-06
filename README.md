@@ -1,9 +1,8 @@
 ##### 👋 Welcome to @lakshyatangri profile
 
-- 🎯 Solutions Architect | IS Auditor | Information System Expert 
-(I align or Govern IT systems with Business/ stakeholders)
-- 🎓 MSc MIS & Digital Innovation @ Warwick Business School
-- 🛠️ I work with: `python`, `aws`, `kubernetes`, `docker`, `uml`, `archimate`, `terraform`  
+
+(IT Auditor & a GRC Analyst)
+- 🎓 MSc MIS & Digital Innovation @ Warwick Business School 
 - 🧠 Exploring: Cybersecurity, Hacking, Blockchain, AI Agents, Quantum Computing, cloud-native systems  
 - 🏗️ Passionate about building scalable, secure, and future-ready systems  
 - 💬 Always open to collaborating and discussing architecture, AI, and tech strategy
